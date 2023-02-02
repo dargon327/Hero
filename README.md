@@ -1,2 +1,2 @@
 Name:Addison
-Partner:Dora
+Partner:None
